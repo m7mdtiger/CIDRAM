@@ -38,7 +38,7 @@ $CIDRAM['lang']['ReasonMessage_Cloud'] = 'الموقع لا يسمح بالخد�
 $CIDRAM['lang']['ReasonMessage_Generic'] = 'تم رفض الوصول, عنوان ال IP الخاص بك مدرج بالقائمة السوداء للموقع.';
 $CIDRAM['lang']['ReasonMessage_Spam'] = 'تم رفض الوصول, عنوان ال IP غير مرغوب فيه.';
 $CIDRAM['lang']['Short_BadIP'] = 'IP غير صالح';
-$CIDRAM['lang']['Short_Bogon'] = 'المريخ IP';
+$CIDRAM['lang']['Short_Bogon'] = 'Bogon IP';
 $CIDRAM['lang']['Short_Cloud'] = 'الخدمات السحابية';
 $CIDRAM['lang']['Short_Generic'] = 'عام';
 $CIDRAM['lang']['Short_Spam'] = 'خطر البريد المزعج';
